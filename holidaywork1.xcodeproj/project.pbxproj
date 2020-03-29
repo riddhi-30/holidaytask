@@ -3,10 +3,23 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C5AD4D89062A42733185243 /* Pods_holidaywork1_holidaywork1UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D3591FBF00E9193408F392B /* Pods_holidaywork1_holidaywork1UITests.framework */; };
+		7ED11D77662F87185CBFEBAF /* Pods_holidaywork1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42DE9EB56CF78F641075976E /* Pods_holidaywork1Tests.framework */; };
+		A351B27441D910F27C3E0520 /* Pods_holidaywork1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A22154BFBCCA9C14D8B2A400 /* Pods_holidaywork1.framework */; };
+		AF0EBDAC242BCB2B00806ED6 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0EBDAB242BCB2B00806ED6 /* VideoViewController.swift */; };
+		FD2FEBF5242938CE004B2792 /* ViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2FEBF4242938CE004B2792 /* ViewControllerTableViewCell.swift */; };
+		FD2FEBF9242AAF02004B2792 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD2FEBF8242AAF02004B2792 /* GoogleService-Info.plist */; };
+		FD2FEC04242BC615004B2792 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FD2FEC02242BC615004B2792 /* images.jpeg */; };
+		FD2FEC05242BC615004B2792 /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FD2FEC03242BC615004B2792 /* images-2.jpeg */; };
+		FD2FEC07242BC63F004B2792 /* IMG_7336.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD2FEC06242BC63F004B2792 /* IMG_7336.jpg */; };
+		FD2FEC09242BFE80004B2792 /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2FEC08242BFE80004B2792 /* VideoTableViewCell.swift */; };
+		FD2FEC13242C093A004B2792 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2FEC12242C093A004B2792 /* LoginViewController.swift */; };
+		FD2FEC15242C146D004B2792 /* WWDCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2FEC14242C146D004B2792 /* WWDCViewController.swift */; };
+		FD2FEC1B242C180F004B2792 /* WWDCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2FEC1A242C180F004B2792 /* WWDCTableViewCell.swift */; };
 		FD684A7D242549EF0060E567 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD684A7C242549EF0060E567 /* AppDelegate.swift */; };
 		FD684A7F242549EF0060E567 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD684A7E242549EF0060E567 /* SceneDelegate.swift */; };
 		FD684A81242549EF0060E567 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD684A80242549EF0060E567 /* ViewController.swift */; };
@@ -35,6 +48,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1CE288473BDB079D58D65B17 /* Pods-holidaywork1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1.debug.xcconfig"; path = "Target Support Files/Pods-holidaywork1/Pods-holidaywork1.debug.xcconfig"; sourceTree = "<group>"; };
+		42DE9EB56CF78F641075976E /* Pods_holidaywork1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_holidaywork1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D3591FBF00E9193408F392B /* Pods_holidaywork1_holidaywork1UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_holidaywork1_holidaywork1UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		58926CD101A8136DEDBA444E /* Pods-holidaywork1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1.release.xcconfig"; path = "Target Support Files/Pods-holidaywork1/Pods-holidaywork1.release.xcconfig"; sourceTree = "<group>"; };
+		7B75929F85E18F55BB2E2622 /* Pods-holidaywork1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1Tests.debug.xcconfig"; path = "Target Support Files/Pods-holidaywork1Tests/Pods-holidaywork1Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		A22154BFBCCA9C14D8B2A400 /* Pods_holidaywork1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_holidaywork1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4FA0BAE20E95E23856A0359 /* Pods-holidaywork1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1Tests.release.xcconfig"; path = "Target Support Files/Pods-holidaywork1Tests/Pods-holidaywork1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		AF0EBDAB242BCB2B00806ED6 /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
+		D527E3191618B5A9AA50F84E /* Pods-holidaywork1-holidaywork1UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1-holidaywork1UITests.release.xcconfig"; path = "Target Support Files/Pods-holidaywork1-holidaywork1UITests/Pods-holidaywork1-holidaywork1UITests.release.xcconfig"; sourceTree = "<group>"; };
+		DA4CB85659AD3DA55E8D13EC /* Pods-holidaywork1-holidaywork1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-holidaywork1-holidaywork1UITests.debug.xcconfig"; path = "Target Support Files/Pods-holidaywork1-holidaywork1UITests/Pods-holidaywork1-holidaywork1UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FD2FEBF4242938CE004B2792 /* ViewControllerTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewControllerTableViewCell.swift; path = llSwift/ViewControllerTableViewCell.swift; sourceTree = "<group>"; };
+		FD2FEBF8242AAF02004B2792 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		FD2FEC02242BC615004B2792 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		FD2FEC03242BC615004B2792 /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
+		FD2FEC06242BC63F004B2792 /* IMG_7336.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_7336.jpg; sourceTree = "<group>"; };
+		FD2FEC08242BFE80004B2792 /* VideoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VideoTableViewCell.swift; path = llSwift/VideoTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		FD2FEC12242C093A004B2792 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		FD2FEC14242C146D004B2792 /* WWDCViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WWDCViewController.swift; path = erSwift/WWDCViewController.swift; sourceTree = "<group>"; };
+		FD2FEC1A242C180F004B2792 /* WWDCTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WWDCTableViewCell.swift; path = llSwift/WWDCTableViewCell.swift; sourceTree = SOURCE_ROOT; };
 		FD684A79242549EF0060E567 /* holidaywork1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = holidaywork1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD684A7C242549EF0060E567 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD684A7E242549EF0060E567 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A351B27441D910F27C3E0520 /* Pods_holidaywork1.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7ED11D77662F87185CBFEBAF /* Pods_holidaywork1Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +104,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C5AD4D89062A42733185243 /* Pods_holidaywork1_holidaywork1UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E721DA9B3EE978A848A9B922 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1CE288473BDB079D58D65B17 /* Pods-holidaywork1.debug.xcconfig */,
+				58926CD101A8136DEDBA444E /* Pods-holidaywork1.release.xcconfig */,
+				DA4CB85659AD3DA55E8D13EC /* Pods-holidaywork1-holidaywork1UITests.debug.xcconfig */,
+				D527E3191618B5A9AA50F84E /* Pods-holidaywork1-holidaywork1UITests.release.xcconfig */,
+				7B75929F85E18F55BB2E2622 /* Pods-holidaywork1Tests.debug.xcconfig */,
+				A4FA0BAE20E95E23856A0359 /* Pods-holidaywork1Tests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F0B03313217324FC6A0AB1E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A22154BFBCCA9C14D8B2A400 /* Pods_holidaywork1.framework */,
+				4D3591FBF00E9193408F392B /* Pods_holidaywork1_holidaywork1UITests.framework */,
+				42DE9EB56CF78F641075976E /* Pods_holidaywork1Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FD684A70242549EF0060E567 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +141,9 @@
 				FD684A92242549F10060E567 /* holidaywork1Tests */,
 				FD684A9D242549F20060E567 /* holidaywork1UITests */,
 				FD684A7A242549EF0060E567 /* Products */,
+				FD2FEBF8242AAF02004B2792 /* GoogleService-Info.plist */,
+				E721DA9B3EE978A848A9B922 /* Pods */,
+				F0B03313217324FC6A0AB1E8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,8 +163,17 @@
 				FD684A7C242549EF0060E567 /* AppDelegate.swift */,
 				FD684A7E242549EF0060E567 /* SceneDelegate.swift */,
 				FD684A80242549EF0060E567 /* ViewController.swift */,
+				FD2FEBF4242938CE004B2792 /* ViewControllerTableViewCell.swift */,
 				FD684A82242549EF0060E567 /* Main.storyboard */,
+				FD2FEC14242C146D004B2792 /* WWDCViewController.swift */,
+				FD2FEC1A242C180F004B2792 /* WWDCTableViewCell.swift */,
+				AF0EBDAB242BCB2B00806ED6 /* VideoViewController.swift */,
+				FD2FEC12242C093A004B2792 /* LoginViewController.swift */,
+				FD2FEC08242BFE80004B2792 /* VideoTableViewCell.swift */,
 				FD684A85242549F10060E567 /* Assets.xcassets */,
+				FD2FEC06242BC63F004B2792 /* IMG_7336.jpg */,
+				FD2FEC03242BC615004B2792 /* images-2.jpeg */,
+				FD2FEC02242BC615004B2792 /* images.jpeg */,
 				FD684A87242549F10060E567 /* LaunchScreen.storyboard */,
 				FD684A8A242549F10060E567 /* Info.plist */,
 			);
@@ -135,9 +205,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FD684AA3242549F20060E567 /* Build configuration list for PBXNativeTarget "holidaywork1" */;
 			buildPhases = (
+				633DC23776737F1ADD95646D /* [CP] Check Pods Manifest.lock */,
 				FD684A75242549EF0060E567 /* Sources */,
 				FD684A76242549EF0060E567 /* Frameworks */,
 				FD684A77242549EF0060E567 /* Resources */,
+				271B476CEA2A41AA8362BA8B /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +224,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FD684AA6242549F20060E567 /* Build configuration list for PBXNativeTarget "holidaywork1Tests" */;
 			buildPhases = (
+				EC3A96C1570C71B53311DC42 /* [CP] Check Pods Manifest.lock */,
 				FD684A8B242549F10060E567 /* Sources */,
 				FD684A8C242549F10060E567 /* Frameworks */,
 				FD684A8D242549F10060E567 /* Resources */,
@@ -170,9 +243,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FD684AA9242549F20060E567 /* Build configuration list for PBXNativeTarget "holidaywork1UITests" */;
 			buildPhases = (
+				C615DB0B7F2D6022646AE9C4 /* [CP] Check Pods Manifest.lock */,
 				FD684A96242549F20060E567 /* Sources */,
 				FD684A97242549F20060E567 /* Frameworks */,
 				FD684A98242549F20060E567 /* Resources */,
+				131139C8A403BF7E5FB75CBC /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -233,7 +308,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD684A89242549F10060E567 /* LaunchScreen.storyboard in Resources */,
+				FD2FEC04242BC615004B2792 /* images.jpeg in Resources */,
 				FD684A86242549F10060E567 /* Assets.xcassets in Resources */,
+				FD2FEBF9242AAF02004B2792 /* GoogleService-Info.plist in Resources */,
+				FD2FEC07242BC63F004B2792 /* IMG_7336.jpg in Resources */,
+				FD2FEC05242BC615004B2792 /* images-2.jpeg in Resources */,
 				FD684A84242549EF0060E567 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,14 +333,123 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		131139C8A403BF7E5FB75CBC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-holidaywork1-holidaywork1UITests/Pods-holidaywork1-holidaywork1UITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-holidaywork1-holidaywork1UITests/Pods-holidaywork1-holidaywork1UITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-holidaywork1-holidaywork1UITests/Pods-holidaywork1-holidaywork1UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		271B476CEA2A41AA8362BA8B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-holidaywork1/Pods-holidaywork1-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-holidaywork1/Pods-holidaywork1-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-holidaywork1/Pods-holidaywork1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		633DC23776737F1ADD95646D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-holidaywork1-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C615DB0B7F2D6022646AE9C4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-holidaywork1-holidaywork1UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EC3A96C1570C71B53311DC42 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-holidaywork1Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		FD684A75242549EF0060E567 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD2FEC1B242C180F004B2792 /* WWDCTableViewCell.swift in Sources */,
+				FD2FEC13242C093A004B2792 /* LoginViewController.swift in Sources */,
 				FD684A81242549EF0060E567 /* ViewController.swift in Sources */,
 				FD684A7D242549EF0060E567 /* AppDelegate.swift in Sources */,
+				FD2FEBF5242938CE004B2792 /* ViewControllerTableViewCell.swift in Sources */,
+				AF0EBDAC242BCB2B00806ED6 /* VideoViewController.swift in Sources */,
 				FD684A7F242549EF0060E567 /* SceneDelegate.swift in Sources */,
+				FD2FEC09242BFE80004B2792 /* VideoTableViewCell.swift in Sources */,
+				FD2FEC15242C146D004B2792 /* WWDCViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +620,7 @@
 		};
 		FD684AA4242549F20060E567 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1CE288473BDB079D58D65B17 /* Pods-holidaywork1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -449,6 +638,7 @@
 		};
 		FD684AA5242549F20060E567 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 58926CD101A8136DEDBA444E /* Pods-holidaywork1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -466,6 +656,7 @@
 		};
 		FD684AA7242549F20060E567 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B75929F85E18F55BB2E2622 /* Pods-holidaywork1Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,6 +678,7 @@
 		};
 		FD684AA8242549F20060E567 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4FA0BAE20E95E23856A0359 /* Pods-holidaywork1Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +700,7 @@
 		};
 		FD684AAA242549F20060E567 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA4CB85659AD3DA55E8D13EC /* Pods-holidaywork1-holidaywork1UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -527,6 +720,7 @@
 		};
 		FD684AAB242549F20060E567 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D527E3191618B5A9AA50F84E /* Pods-holidaywork1-holidaywork1UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
