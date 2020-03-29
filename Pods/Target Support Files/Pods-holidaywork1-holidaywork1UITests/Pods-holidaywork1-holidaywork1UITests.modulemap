@@ -1,0 +1,6 @@
+framework module Pods_holidaywork1_holidaywork1UITests {
+  umbrella header "Pods-holidaywork1-holidaywork1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
